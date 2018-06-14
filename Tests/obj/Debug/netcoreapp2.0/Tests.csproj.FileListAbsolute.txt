@@ -1,0 +1,17 @@
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Tests.deps.json
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.json
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Tests.runtimeconfig.dev.json
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Tests.dll
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\Tests.pdb
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\CommandLineApp.dll
+E:\MyRepositories\RoslynML\Tests\bin\Debug\netcoreapp2.0\CommandLineApp.pdb
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.csprojResolveAssemblyReference.cache
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.csproj.CoreCompileInputs.cache
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfoInputs.cache
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.AssemblyInfo.cs
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.csproj.CopyComplete
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.dll
+E:\MyRepositories\RoslynML\Tests\obj\Debug\netcoreapp2.0\Tests.pdb

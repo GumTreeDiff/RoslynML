@@ -1,0 +1,10 @@
+E:\MyRepositories\RoslynML\CommandLineApp\bin\Debug\netcoreapp2.0\CommandLineApp.deps.json
+E:\MyRepositories\RoslynML\CommandLineApp\bin\Debug\netcoreapp2.0\CommandLineApp.runtimeconfig.json
+E:\MyRepositories\RoslynML\CommandLineApp\bin\Debug\netcoreapp2.0\CommandLineApp.runtimeconfig.dev.json
+E:\MyRepositories\RoslynML\CommandLineApp\bin\Debug\netcoreapp2.0\CommandLineApp.dll
+E:\MyRepositories\RoslynML\CommandLineApp\obj\Debug\netcoreapp2.0\CommandLineApp.csproj.CoreCompileInputs.cache
+E:\MyRepositories\RoslynML\CommandLineApp\obj\Debug\netcoreapp2.0\CommandLineApp.AssemblyInfoInputs.cache
+E:\MyRepositories\RoslynML\CommandLineApp\obj\Debug\netcoreapp2.0\CommandLineApp.AssemblyInfo.cs
+E:\MyRepositories\RoslynML\CommandLineApp\bin\Debug\netcoreapp2.0\CommandLineApp.pdb
+E:\MyRepositories\RoslynML\CommandLineApp\obj\Debug\netcoreapp2.0\CommandLineApp.dll
+E:\MyRepositories\RoslynML\CommandLineApp\obj\Debug\netcoreapp2.0\CommandLineApp.pdb
